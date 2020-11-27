@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344571807797",
+    "firebase_url": "https://ai-yachay-md-53982.firebaseio.com",
+    "project_id": "ai-yachay-md-53982",
+    "storage_bucket": "ai-yachay-md-53982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344571807797:android:13193f7fe75cfcdab4497c",
+        "android_client_info": {
+          "package_name": "com.novequipo28.aiyachay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344571807797-25d9l1nh85t4su2l2hj0qsohac4p8akf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQFlzBpqzDqY8mE7jYkUt9Kmm_bFkm60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344571807797-25d9l1nh85t4su2l2hj0qsohac4p8akf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
