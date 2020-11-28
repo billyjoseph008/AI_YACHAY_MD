@@ -5,4 +5,6 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="colorComplementary">#9551F5</color>
     <color name="white">#ffffff</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>

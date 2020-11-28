@@ -1,7 +1,6 @@
 package com.novequipo28.aiyachay.register;
 
 import android.content.Intent;
-import android.icu.text.UnicodeSetSpanner;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;

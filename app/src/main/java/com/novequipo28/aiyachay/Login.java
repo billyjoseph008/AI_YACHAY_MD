@@ -54,6 +54,12 @@ public class Login extends AppCompatActivity {
         login = findViewById(R.id.login_btn);
         register = findViewById(R.id.register_btn);
 
+        login.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                login();
+            }
+        });
         register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -62,7 +68,6 @@ public class Login extends AppCompatActivity {
         });
 
     }
-
 
     private void login() {
 
@@ -122,6 +127,7 @@ public class Login extends AppCompatActivity {
     }
 
     private void setDefaultRegisterValues(){
+
         RegisterController.fragmentPosition=1;
         RegisterController.setNewUserName("");
         RegisterController.setNewUserEmail("");
